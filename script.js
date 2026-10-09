@@ -42,4 +42,3 @@ botaoGarantia.addEventListener("click", function () {
         ? "Saiba mais sobre as aulas"
         : "Ocultar informações";
 });
-
