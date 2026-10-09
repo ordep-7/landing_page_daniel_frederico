@@ -187,6 +187,13 @@ header {
     border-top: 1px solid rgba(255, 255, 255, 0.4);
 }
 
+.social-item-negativo {
+    color: rgb(255, 230, 0);
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: normal;
+}
+
 
 /* ==============================
    FOTO INICIAL
